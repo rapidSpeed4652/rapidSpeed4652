@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm currently working on building my skills with C++, Python. I'm also currently aspiring to learn many different languages like html and java. I would love for anyone to contact for tutoring me. Have a great day 😄
 <!--
 **rapidSpeed4652/rapidSpeed4652** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
