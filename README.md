@@ -1,4 +1,7 @@
 ## Hiiiii
+![steve](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLoBA1Wt4Q-fIzBR3J9ykRoxuT0WdRUXiXcQ&s "I like minecraft")
+
+
 I'm currently working on building my skills with C++, Python. I'm also currently aspiring to learn many different languages like html and java. I would love for anyone to contact for tutoring me. Have a great day 😄
 <!--
 **rapidSpeed4652/rapidSpeed4652** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
